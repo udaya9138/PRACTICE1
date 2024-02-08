@@ -1,0 +1,13 @@
+.heading{
+    color: red;
+}
+#box{
+    background-color: blue;
+    align-self: center;
+    padding: 5%;
+    align-content: center;
+    color: beige;
+}
+#sss{
+    background-color: blue;
+}
